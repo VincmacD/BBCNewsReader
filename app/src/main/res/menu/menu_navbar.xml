@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/navbar_home"
+        app:showAsAction="always"
+        android:title="@string/nav_home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:id="@+id/navbar_favorites"
+        app:showAsAction="always"
+        android:title="@string/nav_favorites"
+        android:icon="@drawable/baseline_favorite_24"
+        />
+    <item
+        android:id="@+id/navbar_addArticle"
+        app:showAsAction="always"
+        android:title="@string/add_activity"
+        android:icon="@drawable/baseline_post_add_24"
+        />
+    <item
+        android:id="@+id/navbar_changeLanguage"
+        app:showAsAction="always"
+        android:title="@string/language_activity"
+        android:icon="@drawable/baseline_language_24"
+        />
+    <item
+        android:id="@+id/navbar_help"
+        app:showAsAction="always"
+        android:title="@string/nav_help"
+        android:icon="@drawable/baseline_help_24"
+        />
+    <item
+        android:id="@+id/navbar_exit"
+        app:showAsAction="always"
+        android:title="@string/exit"
+        android:icon ="@drawable/baseline_exit_to_app_24"
+        />
+
+</menu>

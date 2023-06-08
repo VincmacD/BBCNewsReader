@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Dark">#1C1B1F</color>
+    <color name="transparant">#00FFFFFF</color>
+    <color name="white_nav">#FAFAFA</color>
+    <color name="urlBlue">#0000EE</color>
 </resources>

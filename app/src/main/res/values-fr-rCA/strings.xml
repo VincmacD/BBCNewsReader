@@ -1,2 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">BBCLecteurDeNouvelles</string>
+    <string name="nav_open">Ouvrir</string>
+    <string name="nav_close">Fermer</string>
+    <string name="nav_home">Acceuil</string>
+    <string name="version">v1.0</string>
+    <string name="edit_text_hint">Rechercher un article</string>
+    <string name="home_title">Fil d\'actualité</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_help">Aide</string>
+    <string name="exit">Sortie</string>
+    <string name="news_detail">Détail de l\'article</string>
+    <string name="fav_add_btn">Ajouter aux favoris</string>
+    <string name="fav_del_btn">Retirer</string>
+    <string name="fav_title">Favoris</string>
+    <string name="add_toast">Article ajouté aux favoris.</string>
+    <string name="delete_toast">Article retiré des favoris.</string>
+    <string name="delete_confirmation">Êtes-vous sûr de vouloir supprimer cet article?</string>
+    <string name="delete_snackbar">Oui</string>
+    <string name="add_activity">Ajouter un article</string>
+    <string name="language_activity">Langue</string>
+    <string name="eng_btn">Anglais</string>
+    <string name="fre_btn">Français</string>
+    <string name="title">Titre:</string>
+    <string name="description">Description:</string>
+    <string name="date">Date de publication:</string>
+    <string name="URL">URL:</string>
+</resources>

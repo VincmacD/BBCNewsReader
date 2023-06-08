@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">BBCNewsReader</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="nav_home">Home</string>
+    <string name="version">v1.0</string>
+    <string name="edit_text_hint">Search for an article</string>
+    <string name="home_title">News Feed</string>
+    <string name="nav_favorites">Favorites</string>
+    <string name="nav_help">Help</string>
+    <string name="exit">Exit</string>
+    <string name="news_detail">Article detail</string>
+    <string name="fav_add_btn">Add to favorites</string>
+    <string name="fav_del_btn">Remove</string>
+    <string name="fav_title">Favorites</string>
+    <string name="add_toast">Article added to favorites.</string>
+    <string name="delete_toast">Article removed fom favorites.</string>
+    <string name="delete_confirmation">Are you sure you wish to remove this article?</string>
+    <string name="delete_snackbar">Yes</string>
+    <string name="add_activity">Add Article</string>
+    <string name="language_activity">Language</string>
+    <string name="eng_btn">English</string>
+    <string name="fre_btn">French</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="date">Publication date:</string>
+    <string name="URL">URL:</string>
 </resources>
